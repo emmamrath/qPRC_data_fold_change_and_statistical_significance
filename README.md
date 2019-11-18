@@ -11,7 +11,7 @@ Rath EM, Cheng YY, Pinese M, Sarun KH, Hudson AL, Weir C, Wang YD, Håkansson AP
 PLoS One. 2018 Aug 29;13(8):e0203003. doi: 10.1371/journal.pone.0203003. eCollection 2018.
 PMID: [30157247](https://www.ncbi.nlm.nih.gov/pubmed/?term=30157247) PMCID: [PMC6114908](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6114908/) DOI: [10.1371/journal.pone.0203003](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203003)
 
-Citation for [REST](https://www.gene-quantification.de/rest-2009.html) Windows software:
+Citation for [REST](https://www.gene-quantification.de/rest-2009.html) Windows software:  
 Relative expression software tool (REST) for group-wise comparison and statistical analysis of relative expression results in real-time PCR.
 Pfaffl MW, Horgan GW, Dempfle L.
 Nucleic Acids Res. 2002 May 1;30(9):e36.
@@ -24,7 +24,7 @@ Rscript qPRC_data_fold_change_and_statistical_significance.R <input_file> > <out
 Rscript qPRC_data_fold_change_and_statistical_significance.R example_data.txt > example_output.txt
 ```
 
-Please note that the following are currently hard-coded and need to be converted into input parameters so as to generalise this script:
+Please note that the following are currently hard-coded and need to be converted into input parameters so as to generalise this script:  
 * treatment vs control cell-lines
 * target genes vs control gene
 
